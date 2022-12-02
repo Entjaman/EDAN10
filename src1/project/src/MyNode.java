@@ -9,6 +9,13 @@ package tree;
 //dd
 //ffff
 
+private class HelloWorld{
+ private HelloWorld(){
+  System.out.println("Hello, world");
+ }
+
+}
+
 public class MyNode {
   private MyNode father;
   private MyNode left;
