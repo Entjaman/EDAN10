@@ -6,6 +6,7 @@ package tree;
  * @author Torbjorn Ekman
  * @see MyTree
  */
+dd
 public class MyNode {
   private MyNode father;
   private MyNode left;
